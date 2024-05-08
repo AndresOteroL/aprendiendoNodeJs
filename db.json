@@ -1,0 +1,98 @@
+{
+  "profesores": [
+    {
+      "name": "andres",
+      "last_name": "otero",
+      "materias": [
+        {
+          "name": "Node js"
+        },
+        {
+          "name": "Mongo DB"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Docker"
+        }
+      ],
+      "id": "bdb8"
+    },
+    {
+      "id": "3afc",
+      "name": "juanito",
+      "last_name": "venus",
+      "materias": [
+        {
+          "name": "python"
+        },
+        {
+          "name": "MariaDB"
+        },
+        {
+          "name": "Docker"
+        }
+      ]
+    },
+    {
+      "id": "58fd",
+      "name": "pedro",
+      "last_name": "navaja",
+      "materias": [
+        {
+          "name": "python"
+        },
+        {
+          "name": "MariaDB"
+        },
+        {
+          "name": "DevOps"
+        },
+        {
+          "name": "Docker"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "name": "pepito",
+      "last_name": "perez",
+      "average": 4.8,
+      "id": "d73a"
+    },
+    {
+      "name": "juanito",
+      "last_name": "Alimaña",
+      "average": 4.8,
+      "id": "1fb1"
+    },
+    {
+      "id": "0b36",
+      "name": "sutanito",
+      "last_name": "muños",
+      "average": 4.7
+    }
+  ],
+  "cursos": [
+    {
+      "name": "Node js",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "ea94"
+    },
+    {
+      "name": "python",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "47ce"
+    },
+    {
+      "name": "Machine learning",
+      "duracion": 10,
+      "dificultad": "alta",
+      "id": "15fa"
+    }
+  ]
+}
